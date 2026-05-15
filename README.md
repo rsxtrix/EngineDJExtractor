@@ -15,4 +15,4 @@ The process is to navigate to the source folder on the Engine DJ device as menti
 
 This program copies the files, so no worries about deleting or ruining anything on your Engine OS device.
 
-Full writeup on my website, 
+Full writeup on my website, https://diyhackers.blogspot.com/2026/05/how-to-extract-music-from-folders.html
